@@ -29,6 +29,7 @@ compared with the 1x10^9 under the logistic model this is alot larger.
 The graph is in the main repo.
 The blue line shows the exponential curve. The red line shows the logistic curve 
 
+![Exponential-logistic](https://github.com/Willbill1978/logistic_growth/assets/150149267/07337500-8192-4c42-966c-8f2ae56c0100)
 
 
 
