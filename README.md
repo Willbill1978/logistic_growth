@@ -25,8 +25,9 @@ N=1929.83 * e^(0.0301927 * 4980)
 N=3.8537507e+68 at t=4980
 compared with the 1x10^9 under the logistic model this is alot larger.
 
-3
-
+3)
+The graph is in the main repo.
+The blue line shows the exponential curve. The red line shows the logistic curve 
 
 
 
